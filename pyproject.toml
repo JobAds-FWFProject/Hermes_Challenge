@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "hermes-challenge"
+version = "0.1.0"
+description = ""
+authors = ["Gytha Ogg <gythaoggscat@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+jupyter = "^1.1.1"
+pandas = "^2.2.3"
+matplotlib = "^3.9.2"
+requests = "^2.32.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
