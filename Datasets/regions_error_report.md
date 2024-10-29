@@ -1,0 +1,36 @@
+
+# 2024-10-29 12:07:28.246826
+- 22QRMSPWH2VFNZT5DNCCRGMBF4GQOMPE-FILE_0014_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/b41d58fe-cb64-4a5b-b692-104dd8a898a8.xml
+- 22QXVMCWQO7CYEBYY74YLIF25GX7ZTOD-FILE_0021_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/2506dca7-0afe-4088-9533-13fc83f913df.xml
+- 22QXVMCWQO7CYEBYY74YLIF25GX7ZTOD-FILE_0022_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/49ccc324-1752-4566-bb8b-d795486a1aa7.xml
+- 22QXVMCWQO7CYEBYY74YLIF25GX7ZTOD-FILE_0023_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/6cd01da2-beca-403f-bf8e-a8be20e183d8.xml
+- 242XUW6E3344W6XPV4HFQX2KWFFM4B6S-FILE_0012_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/05d38df8-e99b-4226-b032-8ba7ca81abaa.xml
+- 242XUW6E3344W6XPV4HFQX2KWFFM4B6S-FILE_0027_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/51d88965-fa02-4528-a902-d8a822cb238f.xml
+- 242XUW6E3344W6XPV4HFQX2KWFFM4B6S-FILE_0028_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/08ff6339-2e81-4d50-84b6-53fa0b4271c8.xml
+- 2BZKW5C4ERCLHL7VFCO3BFISZEPJZLFR-FILE_0031_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/7d110f63-9170-499c-b20f-de3b87533e20.xml
+- 2BZKW5C4ERCLHL7VFCO3BFISZEPJZLFR-FILE_0033_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/916300c6-6775-4d53-8807-f8a2043f4d74.xml
+- 2BZKW5C4ERCLHL7VFCO3BFISZEPJZLFR-FILE_0034_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/57b89436-71a2-473e-896a-3e8f2f09e282.xml
+- 2BZKW5C4ERCLHL7VFCO3BFISZEPJZLFR-FILE_0035_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/6861c533-f50a-4f29-87b2-8591e7b3ac9f.xml
+- 2BZKW5C4ERCLHL7VFCO3BFISZEPJZLFR-FILE_0036_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/8ad123aa-8e2d-42a3-bbb4-733a7a02b0b3.xml
+- 2CD5EKRDS5GBUG7IMTJCATK3C2Z6OZQI-FILE_0007_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/238ac763-185e-42da-9c2c-355065b89463.xml
+- 2CD5EKRDS5GBUG7IMTJCATK3C2Z6OZQI-FILE_0029_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/59f74317-a070-4381-9c76-b78b1668a2e4.xml
+- 2CD5EKRDS5GBUG7IMTJCATK3C2Z6OZQI-FILE_0030_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/6079bd29-5121-4ed2-a82a-0f9d197093a3.xml
+- 2CD5EKRDS5GBUG7IMTJCATK3C2Z6OZQI-FILE_0031_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/35573480-7687-4585-821b-a9e7edc5939b.xml
+- 2CD5EKRDS5GBUG7IMTJCATK3C2Z6OZQI-FILE_0032_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/4d726704-0f5d-417a-9710-007ae901d37c.xml
+- 2CD5EKRDS5GBUG7IMTJCATK3C2Z6OZQI-FILE_0033_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/90e5bdce-105d-4aea-a732-8d9086ef9618.xml
+- 2CIHGCTVOB55PX4ZCQGUM5CIN2RKZ46W-FILE_0012_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/8c248506-1a20-4095-afb6-5264ff3eb3fc.xml
+- 2F3OL7VLP7QCK2L7I2VPSPSWGUMKYPMH-FILE_0007_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/845c87fb-84de-44e2-a28e-9d70d53987f8.xml
+- 2F3OL7VLP7QCK2L7I2VPSPSWGUMKYPMH-FILE_0010_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/0d48d5af-6674-43c4-8de9-fb1affad7811.xml
+- 2F3OL7VLP7QCK2L7I2VPSPSWGUMKYPMH-FILE_0018_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/30bf7694-8ae3-4ce7-bce1-48c54579f09b.xml
+- 2F3OL7VLP7QCK2L7I2VPSPSWGUMKYPMH-FILE_0023_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/a370511d-71b0-4308-adf5-2c183d7d550d.xml
+- 2F3OL7VLP7QCK2L7I2VPSPSWGUMKYPMH-FILE_0027_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/2f937e20-2cf0-48af-8063-57f1f6a645de.xml
+- 2FBXWTIM6UCESMAAZGY3ALEECIRZTECM-FILE_0012_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/5cfd5a2e-b495-44f1-9bb7-6dea663e3111.xml
+- 2FBXWTIM6UCESMAAZGY3ALEECIRZTECM-FILE_0013_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/a1908070-0816-42cf-94bf-09f07cd68dd0.xml
+- 2FBXWTIM6UCESMAAZGY3ALEECIRZTECM-FILE_0018_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/48749856-864f-4700-bdb9-09615b151a63.xml
+- 2FBXWTIM6UCESMAAZGY3ALEECIRZTECM-FILE_0019_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/a790151f-c7a0-46f6-9a5e-79abf19eb2e5.xml
+- 2FLFR23QOZEFLQ7LQUCR2RJZ4IJ6SCYZ-FILE_0009_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/00fffcd8-030c-4bb7-a952-1ba3997d0c16.xml
+- 2GRIAGZDDFBXOZW5EXM7E4VCYSD6QXSH-FILE_0030_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/94eceb42-fbda-4395-a9cc-3635413c5a0a.xml
+- 2GRIAGZDDFBXOZW5EXM7E4VCYSD6QXSH-FILE_0035_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/78cf50b6-c96b-4cb0-9cc8-839e6cf10653.xml
+- 2HDNLMRK6GMZI7GV3WVFCJYMAE4EZK72-FILE_0010_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/4f2b46ad-c937-4688-9968-2554e5a797e7.xml
+- 2HDNLMRK6GMZI7GV3WVFCJYMAE4EZK72-FILE_0011_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/3a180988-df50-4151-b28b-1f057f69bd0a.xml
+- 2HDNLMRK6GMZI7GV3WVFCJYMAE4EZK72-FILE_0012_DDB_FULLTEXT: 404 Client Error:  for url: https://api.deutsche-digitale-bibliothek.de/binary/5b8eaa9e-4ecb-4dda-a680-b07d6648c2bd.xml
